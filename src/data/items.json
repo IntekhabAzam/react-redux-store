@@ -2,26 +2,50 @@
     {
       "id": 1,
       "name": "Book",
-      "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "price": 999,
+      "imgUrl": "imgs/book.jpg"
     },
     {
       "id": 2,
       "name": "Computer",
-      "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "price": 31000,
+      "imgUrl": "imgs/computer.jpg"
       
     },
     {
       "id": 3,
-      "name": "Banana",
-      "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "name": "Juicer",
+      "price": 7000,
+      "imgUrl": "imgs/juicer.jpg"
     },
     {
       "id": 4,
       "name": "Car",
-      "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
+      "price": 740000,
+      "imgUrl": "imgs/car.jpg"
+    },
+    {
+      "id": 5,
+      "name": "iPhone",
+      "price": 99999,
+      "imgUrl": "imgs/iPhone.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bed",
+      "price": 44000,
+      "imgUrl": "imgs/bed.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dinner Set",
+      "price": 11000,
+      "imgUrl": "imgs/dinnerSet.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sofa",
+      "price": 16000,
+      "imgUrl": "imgs/sofa.jpg"
     }
   ]

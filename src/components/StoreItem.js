@@ -18,7 +18,7 @@ export function StoreItem(item) {
       />
       <Card.Body>
         <Card.Title className="d-flex justify-content-between align-items-baseline mb-4">
-          <span className="fs-2">{item.name}</span>
+          <span className="fs-4">{item.name}</span>
           <span className="ms-2 text-muted">{formatCurrency(item.price)}</span>
         </Card.Title>
         <div>
